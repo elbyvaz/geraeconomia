@@ -4,7 +4,7 @@ So, the user must to fill the info about the two products that will be compared.
 
 EXAMPLE:
 
-# Product 1
+## Product 1
 Quantity:           1.7
 <br>
 Unity of measure:   kg
@@ -12,7 +12,7 @@ Unity of measure:   kg
 Value:              10.55
 
 
-# Product 2
+## Product 2
 Quantity:           2000
 <br>
 Unity of measure:   g
