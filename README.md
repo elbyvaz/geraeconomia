@@ -1,5 +1,5 @@
 # compraeconomica
-Free tool to compare the monetary value of two products of shelf of supermarket or any comparison of offerts. As result, the tool shows you which product is better and what your percent of economy. 
+Free tool to compare the monetary value of two products of shelf of supermarket or any comparison of offerts. As result, the tool shows you which product is better to buy and what your percent of economy. 
 So, the user must to fill the info about the two products that will be compared.
 
 EXAMPLE:
