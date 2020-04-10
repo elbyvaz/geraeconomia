@@ -17,6 +17,7 @@ Quantity:           2000
 Unity of measure:   g
 Value:              13.30
 
+----------------------------
 As result, the user will see: if you buy the product 1, your economy will be of 6.68%
 
 Note: the options for "unity of measure" field are: kg, g, mg, l, ml, m, cm, mm and unity.
